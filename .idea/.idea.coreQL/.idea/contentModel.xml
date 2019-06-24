@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_coreQL.712183256.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="coreQL" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts" t="Include">
+          <e p="IAccountRepository.cs" t="Include" />
+          <e p="IOwnerRepository.cs" t="Include" />
+        </e>
+        <e p="coreQL.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="Context" t="Include">
+            <e p="appDbContext.cs" t="Include" />
+          </e>
+          <e p="Owner.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="coreQL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="QL" t="Include">
+          <e p="Queries" t="Include">
+            <e p="AppQuery.cs" t="Include" />
+          </e>
+          <e p="Schemas" t="Include">
+            <e p="AppSchem.cs" t="Include" />
+          </e>
+          <e p="Types" t="Include">
+            <e p="OwnerType.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="AccountRepository.cs" t="Include" />
+          <e p="OwnerRepository.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="coreQL.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

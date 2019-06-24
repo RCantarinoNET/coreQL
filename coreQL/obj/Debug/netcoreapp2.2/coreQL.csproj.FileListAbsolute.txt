@@ -1,0 +1,15 @@
+/Users/mac/RiderProjects/coreQL/coreQL/bin/Debug/netcoreapp2.2/coreQL.dll.config
+/Users/mac/RiderProjects/coreQL/coreQL/bin/Debug/netcoreapp2.2/coreQL.deps.json
+/Users/mac/RiderProjects/coreQL/coreQL/bin/Debug/netcoreapp2.2/coreQL.runtimeconfig.json
+/Users/mac/RiderProjects/coreQL/coreQL/bin/Debug/netcoreapp2.2/coreQL.runtimeconfig.dev.json
+/Users/mac/RiderProjects/coreQL/coreQL/bin/Debug/netcoreapp2.2/coreQL.dll
+/Users/mac/RiderProjects/coreQL/coreQL/bin/Debug/netcoreapp2.2/coreQL.pdb
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.RazorAssemblyInfo.cache
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.RazorAssemblyInfo.cs
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.AssemblyInfo.cs
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.RazorTargetAssemblyInfo.cache
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.dll
+/Users/mac/RiderProjects/coreQL/coreQL/obj/Debug/netcoreapp2.2/coreQL.pdb
