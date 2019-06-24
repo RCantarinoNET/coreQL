@@ -6,20 +6,19 @@ namespace coreQL.Entities
 {
     public class Account
     {
-        [Key] 
+        [Key]
         public Guid Id { get; set; }
-        
+
         [Required]
-        public TypeAccount TypeAccount { get; set; }
-        
+        public TypeAccount Type { get; set; }
+
         public string Description { get; set; }
-        
+
         [ForeignKey("OwnerId")]
         public Guid OwnerId { get; set; }
+
         public Owner Owner { get; set; }
     }
-
-
 
     public enum TypeAccount
     {
