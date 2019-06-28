@@ -18,6 +18,8 @@
           <e p="Account.cs" t="Include" />
           <e p="Context" t="Include">
             <e p="appDbContext.cs" t="Include" />
+            <e p="Dump.cs" t="Include" />
+            <e p="OwnerConfig.cs" t="Include" />
           </e>
           <e p="Owner.cs" t="Include" />
         </e>
@@ -33,13 +35,19 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="QL" t="Include">
+          <e p="Mutations" t="Include">
+            <e p="OwnerInputType.cs" t="Include" />
+          </e>
           <e p="Queries" t="Include">
+            <e p="AppMutation.cs" t="Include" />
             <e p="AppQuery.cs" t="Include" />
           </e>
           <e p="Schemas" t="Include">
             <e p="AppSchem.cs" t="Include" />
           </e>
           <e p="Types" t="Include">
+            <e p="AccountType.cs" t="Include" />
+            <e p="AccountTypeEnumType.cs" t="Include" />
             <e p="OwnerType.cs" t="Include" />
           </e>
         </e>

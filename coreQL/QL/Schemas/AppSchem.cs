@@ -10,6 +10,7 @@ namespace coreQL.QL.Schemas
         public AppSchema(IDependencyResolver resolver): base(resolver)
         {
             Query = resolver.Resolve<AppQuery>();
+            Mutation = resolver.Resolve<AppMutation>();
         }
         
     }
